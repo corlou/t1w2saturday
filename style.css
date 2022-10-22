@@ -40,3 +40,8 @@ header h1 {
   color: #ff9900;
   background-color: #2b78e4;
 }
+
+.icon {
+  height: 200px;
+  width: 200px;
+}
